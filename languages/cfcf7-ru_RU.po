@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Conditional fields in Contact Form 7\n"
+"POT-Creation-Date: 2019-08-03 10:27+1000\n"
+"PO-Revision-Date: 2019-08-03 10:27+1000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin.php:20 admin.php:81 cfcf7-options.php:56
+msgid "Conditional fields"
+msgstr "Условные поля"
+
+#: admin.php:30
+msgid "-- Select field --"
+msgstr "- Поле -"
+
+#: admin.php:44
+msgid "-- Select group --"
+msgstr "- Группа -"
+
+#: admin.php:59
+msgid "equals"
+msgstr "ровно"
+
+#: admin.php:60
+msgid "not equals"
+msgstr "не равно"
+
+#: admin.php:94
+msgid "+ add new conditional rule"
+msgstr "+ добавить новое условное правило"
+
+#: admin.php:97
+msgid "import/export"
+msgstr "импорт / экспорт"
+
+#: admin.php:101
+msgid "Import actions (Beta feature!):"
+msgstr "Импорт действий (бета-функция!):"
+
+#: admin.php:101
+msgid "Add conditions"
+msgstr "Добавить условия"
+
+#: admin.php:101
+msgid "Overwrite conditions"
+msgstr "Перезаписать условия"
+
+#: admin.php:101
+msgid "Close"
+msgstr "Скрыть"
+
+#: admin.php:103
+msgid ""
+"<b>WARNING:</b> If you screw something up, just reload the page without "
+"saving. If you click <em>save</em> after screwing up, youre screwed."
+msgstr ""
+"<b>ВНИМАНИЕ:</b> Если вы что-то напортачили, просто перезагрузите страницу "
+"без сохранения. Если вы нажали <em>сохранить</em> после этого."
+
+#: admin.php:219
+msgid "Show"
+msgstr "Show"
+
+#: admin.php:233
+msgid "value"
+msgstr "значение"
+
+#: admin.php:234
+msgid "And"
+msgstr "AND"
+
+#: admin.php:235
+msgid "Remove"
+msgstr "Удалить"
+
+#: cfcf7-options.php:68
+msgid "Settings restored to defaults"
+msgstr "Настройки восстановлены по умолчанию"
+
+#: cfcf7-options.php:70
+msgid "Settings updated"
+msgstr "Настройки обновлены"
+
+#: cfcf7-options.php:83
+msgid "Default animation Settings"
+msgstr "Настройки анимации по умолчанию"
+
+#: cfcf7-options.php:88
+msgid "Animation"
+msgstr "Анимация"
+
+#: cfcf7-options.php:89
+msgid "Use animations while showing/hiding groups"
+msgstr "Используйте анимацию при показе / скрытии групп"
+
+#: cfcf7-options.php:90
+msgid "Disabled"
+msgstr "Отключить"
+
+#: cfcf7-options.php:90
+msgid "Enabled"
+msgstr "Включить"
+
+#: cfcf7-options.php:94
+msgid "Animation In time"
+msgstr "Анимация во времени"
+
+#: cfcf7-options.php:95
+msgid ""
+"A positive integer value indicating the time, in milliseconds, it will take "
+"for each group to show."
+msgstr ""
+"Положительное целочисленное значение, указывающее время в миллисекундах, "
+"которое потребуется каждой группе для отображения."
+
+#: cfcf7-options.php:99
+msgid "Animation Out Time"
+msgstr "Время выхода анимации"
+
+#: cfcf7-options.php:100
+msgid ""
+"A positive integer value indicating the time, in milliseconds, it will take "
+"for each group to hide."
+msgstr ""
+"Положительное целочисленное значение, указывающее время в миллисекундах, "
+"которое потребуется каждой группе для скрытия."
+
+#: cfcf7-options.php:109
+msgid "Restore Default Settings"
+msgstr "Восстановить настройки по умолчанию"
+
+#: cfcf7-options.php:112
+msgid "Restore defaults"
+msgstr "Восстановить значения по умолчанию"
+
+#: cfcf7-options.php:119
+msgid ""
+"Are you sure you want to reset the plugin settings to the default values? "
+"All changes you have previously made will be lost."
+msgstr ""
+"Вы уверены, что хотите сбросить настройки плагина к значениям по умолчанию? "
+"Все сделанные ранее изменения будут потеряны."
+
+#: cfcf7-options.php:135
+msgid "Choose an image"
+msgstr "Выберите изображение"
+
+#: cfcf7-options.php:136
+msgid "Use image"
+msgstr "Использовать изображение"
+
+#: cfcf7-options.php:174
+msgid "Choose image"
+msgstr "Выберите изображение"
+
+#: cfcf7-options.php:211 cfcf7-options.php:253 cfcf7-options.php:280
+msgid "Default: "
+msgstr "По умолчанию: "
+
+#: cfcf7.php:121
+msgid "Conditional Fields Group"
+msgstr "Группа условных полей"
+
+#: cfcf7.php:133
+msgid ""
+"Generate a group tag to group form elements that can be shown conditionally."
+msgstr ""
+"Создайте групповой тег для группировки элементов формы, которые могут быть "
+"отображены условно."
+
+#: tg_pane_group.php:9
+msgid "Name Tag"
+msgstr "Имя"
+
+#: tg_pane_group.php:42
+msgid "Insert Tag"
+msgstr "Вставить тег"
+
+#. Plugin Name of the plugin/theme
+msgid "Conditional fields in Contact Form 7"
+msgstr "Условные поля в Contact Form 7"
+
+#. Plugin URI of the plugin/theme
+msgid "https://sovetit.ru/cfcf7"
+msgstr "https://sovetit.ru/cfcf7"
+
+#. Description of the plugin/theme
+msgid ""
+"Adds support for conditional fields to Contact Form 7. This plugin depends "
+"on Contact Form 7."
+msgstr ""
+"Добавляет поддержку условных полей в Contact Form 7. Этот плагин зависит от "
+"Contact Form 7."
+
+#. Author of the plugin/theme
+msgid "Pavel Ketov"
+msgstr "Павел Кетов"
+
+#. Author URI of the plugin/theme
+msgid "https://sovetit.ru"
+msgstr "https://sovetit.ru"
+
+#~ msgid "For style display:"
+#~ msgstr "Для отображения стиля:"
+
+#~ msgid "Display: block"
+#~ msgstr "Display: block"
+
+#~ msgid "Display: inline"
+#~ msgstr "Display: inline"
+
+#~ msgid "<b>WARNING:</b> experimental features!"
+#~ msgstr "<b>ВНИМАНИЕ:</b> экспериментальные функции!"
+
+#~ msgid "https://sovetit.ru/plof"
+#~ msgstr "https://sovetit.ru/plof"
+
+#~ msgid "Contact Form 7 Conditional Fields"
+#~ msgstr "Условные поля в Contact Form 7"

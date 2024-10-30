@@ -1,0 +1,18 @@
+/* initially hide all groups (even before JS is loaded), so the page will never render them while loading */
+[data-class="cfcf7_group"], .cfcf7_remove, .cfcf7_add {
+    display:none;
+}
+
+.cfcf7_repeater_sub {
+    margin-bottom: 20px;
+}
+
+.cfcf7_repeater_controls, .cfcf7_step_controls {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.cfcf7_multistep .cfcf7_step {
+    display:none;
+}
